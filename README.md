@@ -21,6 +21,8 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_2/challen
  ### Results
   After running the software, based on the data for 2017 the best stock to invest in is DQ and SEDG coming second. As for 2018 the most profitable stocks were RUN and ENPH. Seeing that there is such a large difference from each years return price. I'd reccommend looking at other more stable stocks to invest for Steve's parents. Otherwise the best stock to chose from the given data would be ENPH at it was the only stock to continue to gain profit with such high margins. 
   Reference images below for stock values
+  ![new code](https://github.com/CameronSunyich/Stock-Analysis/blob/main/Screen%20Shot%202021-10-10%20at%2010.29.52%20PM.png)
+  ![new code](https://github.com/CameronSunyich/Stock-Analysis/blob/main/Screen%20Shot%202021-10-10%20at%2010.12.56%20PM.png)
   
 
   ## Summary
